@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Blog Full Content	</title>
-	<atom:link href="https://https://doquangtrieu.github.io/mywordpress/blog-full-content/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://doquangtrieu.github.io/mywordpress</link>
+	<atom:link href="https://doquangtrieu.github.io/mywordpress/blog-full-content/feed/" rel="self" type="application/rss+xml" />
+	<link>https://doquangtrieu.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Tue, 18 Mar 2014 11:52:09 +0000</lastBuildDate>
 	<sy:updatePeriod>
