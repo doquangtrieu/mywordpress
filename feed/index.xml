@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Spacious</title>
+	<title>Trieu</title>
 	<atom:link href="https://doquangtrieu.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://doquangtrieu.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://doquangtrieu.github.io/mywordpress/wp-content/uploads/2020/12/tg-logo-45x45.jpg</url>
-	<title>Spacious</title>
+	<title>Trieu</title>
 	<link>https://doquangtrieu.github.io/mywordpress</link>
 	<width>32</width>
 	<height>32</height>
