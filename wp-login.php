@@ -97,7 +97,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="https://doquangtrieu.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"d8a2c86604"};
+var userProfileL10n = {"user_id":"0","nonce":"ea96ef64cb"};
 </script>
 <script src="https://doquangtrieu.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
 			<script>
