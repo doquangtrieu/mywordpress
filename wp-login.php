@@ -5,11 +5,11 @@
 	<title>Log In &lsaquo; Trieu &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://doquangtrieu.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://doquangtrieu.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="forms-css" href="https://doquangtrieu.github.io/mywordpress/wp-admin/css/forms.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://doquangtrieu.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="login-css" href="https://doquangtrieu.github.io/mywordpress/wp-admin/css/login.min.css?ver=6.0.2" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://doquangtrieu.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://doquangtrieu.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="forms-css" href="https://doquangtrieu.github.io/mywordpress/wp-admin/css/forms.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://doquangtrieu.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="login-css" href="https://doquangtrieu.github.io/mywordpress/wp-admin/css/login.min.css?ver=6.0.3" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://doquangtrieu.github.io/mywordpress/wp-content/uploads/2020/12/tg-logo-45x45.jpg" sizes="32x32">
@@ -48,7 +48,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://doquangtrieu.github.io/mywordpress/lost-password/?page_id=253">Lost your password?</a>
+								<a href="https://doquangtrieu.github.io/mywordpress/lost-password/">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -90,16 +90,16 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 </script>
-<script src="https://doquangtrieu.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=6.0.2" id="password-strength-meter-js"></script>
+<script src="https://doquangtrieu.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=6.0.3" id="password-strength-meter-js"></script>
 <script src="https://doquangtrieu.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://doquangtrieu.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
+<script src="https://doquangtrieu.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"d3e720ab65"};
+var userProfileL10n = {"user_id":"0","nonce":"92d3308439"};
 </script>
-<script src="https://doquangtrieu.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
+<script src="https://doquangtrieu.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
