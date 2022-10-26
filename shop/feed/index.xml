@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Products &#8211; Trieu</title>
+	<title>Sản phẩm &#8211; Trieu</title>
 	<atom:link href="https://doquangtrieu.github.io/mywordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://doquangtrieu.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 15 Oct 2022 05:44:37 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Wed, 26 Oct 2022 04:44:36 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://doquangtrieu.github.io/mywordpress/wp-content/uploads/2020/12/tg-logo-45x45.jpg</url>
-	<title>Products &#8211; Trieu</title>
+	<title>Sản phẩm &#8211; Trieu</title>
 	<link>https://doquangtrieu.github.io/mywordpress</link>
 	<width>32</width>
 	<height>32</height>
